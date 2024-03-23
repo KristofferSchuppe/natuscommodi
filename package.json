@@ -1,0 +1,46 @@
+{
+  "description": "ASN.1 encoding and decoding",
+  "devDependencies": {
+    "@types/node": "^10.9.4",
+    "jasmine": "^3.2.0",
+    "jasmine-core": "^3.2.1",
+    "karma": "^3.0.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-firefox-launcher": "^1.1.0",
+    "karma-jasmine": "^1.1.2",
+    "karma-safari-launcher": "^1.0.0",
+    "ts-loader": "^4.5.0",
+    "typescript": "^3.0.3",
+    "webpack": "^4.17.1",
+    "webpack-cli": "^2.1.5"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "engines": {
+    "node": ">=10.3.0"
+  },
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://github.com/KristofferSchuppe/natuscommodi.git",
+  "keywords": [
+    "quo",
+    "eum",
+    "BER",
+    "unde"
+  ],
+  "license": "MIT",
+  "main": "./dist/node/asn1.js",
+  "name": "natuscommodi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KristofferSchuppe/natuscommodi.git"
+  },
+  "types": "./dist/types/index.d.ts",
+  "version": "1.8.0",
+  "author": "LeathaMurazik",
+  "dependencies": {
+    "voluptatesipsam": "^1.0.0"
+  }
+}
